@@ -43,28 +43,6 @@ JavaScript    █████████░░░
 HTML          ██████████░░
 CSS           █████████░░░
 ```
-
-### 🧠 Domains of Interest
-- Artificial Intelligence & Machine Learning  
-- Problem Solving & Data Structures  
-- Hackathon-Based Development  
-- Technical Communities  
-- Product & Design Thinking  
-
-### 🎨 Creative Skills
-- Web Developer
-- Product Ideation & Innovation
-- Design Thinking
-- Strategic Problem Solving
-- Community Building
-- Leadership & Team Management
-- Public Speaking
-- Networking & Collaboration
-- Project Planning & Execution
-- Graphic Design (Posters, Branding, Social Media)
-- Marketing Strategy & Outreach
-- Content Creation & Visual Storytelling
-
 ---
 
 ## 🏆 Achievements & Highlights
@@ -185,36 +163,26 @@ CSS           █████████░░░
 
 ---
 
-## 📊 GitHub Philosophy
+### 🧠 Domains of Interest
+- Artificial Intelligence & Machine Learning  
+- Problem Solving & Data Structures  
+- Hackathon-Based Development  
+- Technical Communities  
+- Product & Design Thinking  
 
-```txt
-Commit > Learn > Break > Fix > Repeat
-```
-
-I value:
-- Clean commits
-- Honest learning curves
-- Building in public
-- Improving repo by repo
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Python concepts  
-- AI fundamentals  
-- Git & GitHub workflows  
-- Hackathon-ready development  
-- Team collaboration tools  
-
----
-
-## ✨ Personal Values
-
-- 🌸 Growth over comparison  
-- 🔁 Progress over perfection  
-- 🤍 Collaboration over competition  
-- 🔥 Discipline over motivation  
+### 🎨 Creative Skills
+- Web Developer
+- Product Ideation & Innovation
+- Design Thinking
+- Strategic Problem Solving
+- Community Building
+- Leadership & Team Management
+- Public Speaking
+- Networking & Collaboration
+- Project Planning & Execution
+- Graphic Design (Posters, Branding, Social Media)
+- Marketing Strategy & Outreach
+- Content Creation & Visual Storytelling
 
 ---
 
@@ -223,13 +191,7 @@ I value:
 📧 **Email:** bhavika2844@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/bhavika-188495281/
 ---
-
-## ⭐ Final Note
-
-If you find something useful here:
-- ⭐ Star a repository  
-- 🍴 Fork and build on it  
-- 💬 Reach out and collaborate  
+  
 
 Thanks for stopping by 💖  
 Happy coding & clean commits ✨
