@@ -93,7 +93,7 @@ CSS           █████████░░░
 ### 👑 Unison Community
 
 **President**
-📅 *May 2026 – June 2026*
+📅 *May 2026 – July 2026*
 
 * Led community initiatives and member engagement activities
 * Coordinated events, collaborations, and strategic planning
