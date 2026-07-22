@@ -47,10 +47,11 @@ CSS           █████████░░░
 
 ## 🏆 Achievements & Highlights
 
-* 🥇 **1st Position – Web of Innovation (National Level Competition)**
+* 🥇 **1st Position – Web of Innovation 2026 (National Level Competition)**
 * 🥇 **1st Position – Synapse 2025**
-* 🥈 **2nd Position – Pitch Perfect**
+* 🥈 **2nd Position – Pitch Perfect 2026**
 * 🏅 **2nd Runner-Up – HackVriksh 2025 (National Level Competition)**
+* 🏅 **3rd Position – Edge Hack 2026 (National Level Competition)**
 * 🏆 **4th Position – National Online Hackathon 2026 Startup & Open Innovation**
 * 🏆 **4th Position – Hack With Ignite 1.0**
 * 🏆 **5th Position – Hack The Matrix**
