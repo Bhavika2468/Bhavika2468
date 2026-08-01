@@ -90,6 +90,16 @@ CSS           █████████░░░
 
 ---
 
+### 🌍 ORNYX
+
+**Co-Founder**
+📅 *June 2026 – Present*
+
+* Co-founded an international community connecting founders, creators, freelancers, students, and ambitious individuals
+* Built a collaborative ecosystem focused on genuine growth, meaningful networking, and long-term partnerships
+
+---
+
 ### 👑 Unison Community
 
 **President**
