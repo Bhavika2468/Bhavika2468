@@ -70,6 +70,16 @@ CSS           █████████░░░
 
 ## 💼 Experience
 
+### 🌍 ORNYX
+
+**Co-Founder**
+📅 *June 2026 – Present*
+
+* Co-founded an international community connecting founders, creators, freelancers, students, and ambitious individuals
+* Built a collaborative ecosystem focused on genuine growth, meaningful networking, and long-term partnerships
+
+---
+
 ### 🏗️ CoBuild
 
 **Co-Founder**
@@ -87,16 +97,6 @@ CSS           █████████░░░
 
 * Co-founded and helped grow a student-focused tech community
 * Organized technical sessions, networking opportunities, and collaborative initiatives
-
----
-
-### 🌍 ORNYX
-
-**Co-Founder**
-📅 *June 2026 – Present*
-
-* Co-founded an international community connecting founders, creators, freelancers, students, and ambitious individuals
-* Built a collaborative ecosystem focused on genuine growth, meaningful networking, and long-term partnerships
 
 ---
 
