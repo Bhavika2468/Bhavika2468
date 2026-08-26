@@ -58,6 +58,7 @@ CSS           █████████░░░
 * 🏆 **4th Position – Hack With Ignite 1.0**
 * 🏆 **5th Position – Hack The Matrix**
 * 🌟 **Google Developer Groups on Campus – Top 1 DSA Mentee**
+* 👨‍💼 **Founder - Venture Verse (Tech Community)**
 * 👨‍💼 **Co-Founder – ORNYX (International Community)**
 * 👨‍💼 **Co-Founder – CoBuild (Community)**
 * 👨‍💼 **Co-Founder – Tech Circle (Tech Community)**
