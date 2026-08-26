@@ -47,9 +47,11 @@ CSS           █████████░░░
 
 ## 🏆 Achievements & Highlights
 
+* 🥇 **1st Position – Shepreneurs 2026 - A 10 Day Startup Challenge**
 * 🥇 **1st Position – Web of Innovation 2026 (National Level Competition)**
 * 🥇 **1st Position – Synapse 2025**
 * 🥈 **2nd Position – Pitch Perfect 2026**
+* 🥈 **2nd Position – UX Imperium 2026**
 * 🏅 **2nd Runner-Up – HackVriksh 2025 (National Level Competition)**
 * 🏅 **3rd Position – Edge Hack 2026 (National Level Competition)**
 * 🏆 **4th Position – National Online Hackathon 2026 Startup & Open Innovation**
