@@ -204,7 +204,7 @@ CSS           █████████░░░
 
 ## 📫 Connect With Me
 
-📧 **Email:** bhavika2844@gmail.com  
+📧 **Email:** bhavika2833@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/bhavika-188495281/
 ---
   
